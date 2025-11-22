@@ -1,0 +1,1 @@
+# inclass-assignment initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/uofl1998/inclass-assignment.gitgit push -u origin main

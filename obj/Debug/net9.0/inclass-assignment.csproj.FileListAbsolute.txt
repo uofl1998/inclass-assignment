@@ -1,0 +1,15 @@
+/Users/royalschool/Projects/inclass-assignment/bin/Debug/net9.0/inclass-assignment
+/Users/royalschool/Projects/inclass-assignment/bin/Debug/net9.0/inclass-assignment.deps.json
+/Users/royalschool/Projects/inclass-assignment/bin/Debug/net9.0/inclass-assignment.runtimeconfig.json
+/Users/royalschool/Projects/inclass-assignment/bin/Debug/net9.0/inclass-assignment.dll
+/Users/royalschool/Projects/inclass-assignment/bin/Debug/net9.0/inclass-assignment.pdb
+/Users/royalschool/Projects/inclass-assignment/obj/Debug/net9.0/inclass-assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/royalschool/Projects/inclass-assignment/obj/Debug/net9.0/inclass-assignment.AssemblyInfoInputs.cache
+/Users/royalschool/Projects/inclass-assignment/obj/Debug/net9.0/inclass-assignment.AssemblyInfo.cs
+/Users/royalschool/Projects/inclass-assignment/obj/Debug/net9.0/inclass-assignment.csproj.CoreCompileInputs.cache
+/Users/royalschool/Projects/inclass-assignment/obj/Debug/net9.0/inclass-assignment.sourcelink.json
+/Users/royalschool/Projects/inclass-assignment/obj/Debug/net9.0/inclass-assignment.dll
+/Users/royalschool/Projects/inclass-assignment/obj/Debug/net9.0/refint/inclass-assignment.dll
+/Users/royalschool/Projects/inclass-assignment/obj/Debug/net9.0/inclass-assignment.pdb
+/Users/royalschool/Projects/inclass-assignment/obj/Debug/net9.0/inclass-assignment.genruntimeconfig.cache
+/Users/royalschool/Projects/inclass-assignment/obj/Debug/net9.0/ref/inclass-assignment.dll
